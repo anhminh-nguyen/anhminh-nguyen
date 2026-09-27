@@ -6,9 +6,9 @@ I enjoy learning new technologies through hands-on projects and exploring how so
 
 ## 💻 Technical Skills
 
-* **Programming Languages:** Python, Java, JavaScript, TypeScript
-* **Web Development:** HTML, CSS, JavaScript, React
-* **Data & Visualization:** Pandas, Plotly, Streamlit
+* **Programming Languages:** Python, JavaScript, TypeScript
+* **Web Development:** Next.js, HTML, CSS, JavaScript, React, Tailwind,... 
+* **Data & Visualization:** Pandas, Plotly, Streamlit, SQL, ...
 * **AI & Machine Learning:** LLM APIs, AI application development, basic machine learning concepts
 * **Developer Tools:** Git, GitHub, VS Code
 * **Currently Learning:** AI application development, open-source development, and modern software engineering practices
